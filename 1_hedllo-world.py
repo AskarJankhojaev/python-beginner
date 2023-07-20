@@ -107,13 +107,14 @@ Created on Wed Jul 19 15:10:08 2023
 
 #  Shart operatorlari if-else
 #  misali ushin sanlardi salistiramiz
+
+
 sanlar = [1,2,3,4,5,6,7,8,9,10]
 for san  in sanlar :
     if san <=5 :
         print(san, '-bul san 5 ten kishi yamasa ten')
     else:
-        print(san,'-bul san 5 ten aniq ulken')
-
+        print(san,'-bul san 5 ten anıq ulken')
 
 
 
